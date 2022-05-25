@@ -1,8 +1,8 @@
 public class Addition {
 public static void main(String[]args){
-int a=10;
-int b=25;
-int sum =a+b;
+int c=10;
+int d=25;
+int sum =c+d;
 System.out.println("Sum is" +sum);
 }
 }
